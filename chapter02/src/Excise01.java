@@ -4,7 +4,7 @@
  * @date : 2025年12月29日
  */
 public class Excise01 {
-    public static void main(String a[]){
+    public static void main(String[] a){
         float PI=3.14F;
         float r1=1.2F;
         float r2=2.5F;
