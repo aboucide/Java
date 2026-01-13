@@ -1,3 +1,5 @@
+package src;
+
 /**
  * 为抵抗洪水，战士连续作战89小时，编程计算共多少天零多少小时？
  * @author caozhongyuan

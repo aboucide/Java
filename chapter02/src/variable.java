@@ -1,3 +1,5 @@
+package src;
+
 class variable {
     public static void main(String args[]) {
         //测试1：（解释见章末企业真题：为什么0.1 + 0.2不等于0.3）

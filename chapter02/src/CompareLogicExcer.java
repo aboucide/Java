@@ -1,3 +1,5 @@
+package src;
+
 /**
 1. 定义类 CompareLogicExer
 2. 定义 main方法
